@@ -3,7 +3,7 @@ entries:
   aws-ecr-credential-updater:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2023-07-12T15:45:49.081039+09:00"
+    created: "2023-07-12T15:50:23.142224+09:00"
     description: This Chart seemlessly integrates Kubernetes with AWS ECR
     digest: 49ec24de7f899abbf5fef6a8873ce5278d6b0eee68a2293253c700691148a4ab
     keywords:
@@ -15,11 +15,11 @@ entries:
       name: sanggee park
     name: aws-ecr-credential-updater
     urls:
-    - https://db2crush.github.io/awscli-kubectl-helm/stable/aws-ecr-credential-updater-1.0.1.tgz
+    - https://db2crush.github.io/aws-ecr-credential-updater/stable/aws-ecr-credential-updater-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2023-07-12T15:45:49.080717+09:00"
+    created: "2023-07-12T15:50:23.139075+09:00"
     description: This Chart seemlessly integrates Kubernetes with AWS ECR
     digest: cfc123d47aa1a384ac2237f0043af41c7db0c5d93525f33c74e3a70661cc030f
     keywords:
@@ -31,6 +31,6 @@ entries:
       name: sanggee park
     name: aws-ecr-credential-updater
     urls:
-    - https://db2crush.github.io/awscli-kubectl-helm/stable/aws-ecr-credential-updater-1.0.0.tgz
+    - https://db2crush.github.io/aws-ecr-credential-updater/stable/aws-ecr-credential-updater-1.0.0.tgz
     version: 1.0.0
-generated: "2023-07-12T15:45:49.08025+09:00"
+generated: "2023-07-12T15:50:23.138269+09:00"
