@@ -3,9 +3,9 @@ entries:
   aws-ecr-credential-updater:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2023-07-12T15:07:23.357455+09:00"
+    created: "2023-07-12T15:14:45.810911+09:00"
     description: This Chart seemlessly integrates Kubernetes with AWS ECR
-    digest: 3d63e6347ae276d505f33c8b191f6cef3645a379ad880e29683b709e1bc62ae7
+    digest: cfc123d47aa1a384ac2237f0043af41c7db0c5d93525f33c74e3a70661cc030f
     keywords:
     - aws ecr
     - imagePullSecrets
@@ -17,4 +17,4 @@ entries:
     urls:
     - https://db2crush.github.io/aws-ecr-credential-updater/stable/aws-ecr-credential-updater-1.0.0.tgz
     version: 1.0.0
-generated: "2023-07-12T15:07:23.356561+09:00"
+generated: "2023-07-12T15:14:45.810408+09:00"
