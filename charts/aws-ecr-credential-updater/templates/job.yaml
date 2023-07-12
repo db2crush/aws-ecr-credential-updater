@@ -34,8 +34,6 @@ spec:
         - "/bin/sh"
         - "-c"
         - |
-          pip3 install --upgrade awscli
-          aws --version
           AWS_ACCOUNT={{ .Values.aws.account }}
           AWS_REGION={{ .Values.aws.region }}
           echo "AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID"
